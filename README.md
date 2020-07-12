@@ -1,1 +1,1 @@
-# ekstask
+# Elastic Kubernetes Service (Amazon EKS)
